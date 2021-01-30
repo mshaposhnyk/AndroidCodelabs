@@ -1,0 +1,14 @@
+1. Which of the following is a view group?
+  -LinearLayout
+
+2. Which of the following listed view hierarchies is not valid?
+  -TextView > TextView, ImageView, ScrollView
+
+3. Styles are resources defined in styles.xml. Using styles, you can define colors, fonts, text size, and many other characteristics of a view. True or false?
+   -True
+
+4. A ScrollView is a view group that can contain any number of views or view groups as its children. True or false?
+   -False
+
+5. Which UI element can be used to display images in your app?
+   -ImageView
