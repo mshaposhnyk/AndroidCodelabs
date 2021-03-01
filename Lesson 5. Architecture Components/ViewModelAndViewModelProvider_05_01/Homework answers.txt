@@ -1,0 +1,11 @@
+1. To avoid losing data during a device-configuration change, you should save app data in which class?
+  -ViewModel
+
+2. A ViewModel should never contain any references to fragments, activities, or views. True or false?
+  -true
+
+3. When is a ViewModel destroyed?
+   -When the associated UI controller is finished (if it's an activity) or detached (if it's a fragment).
+
+4. What is the ViewModelFactory interface for?
+   -Instantiating a ViewModel object.

@@ -1,0 +1,5 @@
+1.Which method on an Activity inflates the app's layout and makes its views available as objects?
+  -setContentView()
+
+2. Which view attribute do you use to set the width of a view so that it adjusts to fit the content?
+  -android:layout_width="wrap_content"

@@ -1,0 +1,10 @@
+1. What are the steps for using a LiveData value, called gotoBlueFragment, to trigger navigation from the red fragment to the blue fragment? Select all that apply:
+  -In the ViewModel, define the LiveData value gotoBlueFragment.
+  -In the RedFragment, observe the gotoBlueFragment value. Implement the observe{} code to navigate to BlueFragment when appropriate, and then reset the value of gotoBlueFragment to indicate that navigation is complete.
+  -Make sure your code sets the gotoBlueFragment variable to the value that triggers navigation whenever the app needs to go from RedFragment to BlueFragment.
+
+2. You can change whether a Button is enabled (clickable) or not by using LiveData. How would you ensure that your app changes the UpdateNumber button so that:
+The button is enabled if myNumber has a value greater than 5.
+The button is not enabled if myNumber is equal to or less than 5.
+  -In the NumbersViewModel class, define a LiveData variable, myNumber, that represents the number. Also define a variable whose value is set by calling Transform.map() on the myNumber variable, which returns a boolean indicating whether or not the number is greater than 5.
+  -In the XML layout, set the android:enabled attribute of the update_number_button button to NumberViewModel.enableUpdateNumbersButton.

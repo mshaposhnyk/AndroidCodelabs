@@ -1,0 +1,5 @@
+1. Which of the following are layout managers provided by Android? Select all that apply.
+  -LinearLayoutManager
+  -GridLayoutManager
+2. What is a "span"?
+  -The number of columns in a grid that has a vertical orientation.

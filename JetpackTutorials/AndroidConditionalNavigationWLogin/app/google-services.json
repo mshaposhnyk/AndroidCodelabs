@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "745405917691",
+    "project_id": "androidconditionalnavigation",
+    "storage_bucket": "androidconditionalnavigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745405917691:android:7deafd24f019ba49e9035e",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseui_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745405917691-55gqi1vsearh0143pqmmd6c8709jn2rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebaseui_login_sample",
+            "certificate_hash": "ffa01cd2c2661b3854c78ed4470fde0773119255"
+          }
+        },
+        {
+          "client_id": "745405917691-nfpdd1feovqmu6n32d41kh9pbr706j1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXKlWT6wSO8_Q0VRt3XzYYPyEa82r6Cko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745405917691-nfpdd1feovqmu6n32d41kh9pbr706j1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+1. Which Glide method do you use to indicate the ImageView that will contain the loaded image?
+  -into()
+2. How do you specify a placeholder image to show when Glide is loading?
+  - Use RequestOptions() and call the placeholder() method with a drawable.
+3. How do you indicate that a method is a binding adapter?
+  - Annotate the method with @BindingAdapter.
