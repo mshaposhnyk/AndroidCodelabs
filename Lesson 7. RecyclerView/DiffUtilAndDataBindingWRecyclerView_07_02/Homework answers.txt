@@ -1,0 +1,11 @@
+1. Which of the following are necessary to use DiffUtil? Select all that apply.
+  -Override areItemsTheSame().
+  -Override areContentsTheSame().
+  -Extend the ItemCallBack class.
+2. Which of the following are true about binding adapters?
+  -A binding adapter is a function annotated with @BindingAdapter.
+  -Using a binding adapter allows you to separate data formatting from the view holder.
+  -Binding adapters are a good solution when you need to transform complex data.
+3. When should you consider using Transformations instead of a binding adapter? Select all that apply.
+  -Your data is simple.
+  -You are formatting a string.

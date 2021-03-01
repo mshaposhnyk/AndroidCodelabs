@@ -1,0 +1,4 @@
+1. What are the two key things Retrofit needs to build a web services API?
+  -The base URI for the web service, and a converter factory.
+2. What is the purpose of the Moshi library?
+  -To parse a JSON response from a web service into Kotlin data objects.

@@ -1,0 +1,10 @@
+1. Which of the following statements is not true about listener bindings?
+  -Listener bindings are written as lambda expressions.
+  -Listener bindings work with all versions of the Android Gradle plugin.
+
+2. LiveData updates a UI controller (such as a fragment) if the UI controller is in which of the following states?
+  -android:text= "@{@string/generic_name(user.name)}"
+
+3. When is a listener-binding expression evaluated and run?
+  -When the data held by the LiveData is changed
+  -When an event such as onClick() occurs

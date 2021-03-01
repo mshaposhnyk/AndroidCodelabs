@@ -1,0 +1,4 @@
+#Thu Feb 11 10:17:23 EET 2021
+base.0=/Users/mshaposhnyk/Documents/AndroidCodelabs-main/Lesson 4. Activity and fragment lifecycles/ComplexLifeCycleSituation_04_021/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

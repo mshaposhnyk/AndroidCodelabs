@@ -1,0 +1,4 @@
+1. What does the <import> tag in an XML layout file do?
+  -Enable you to reference classes and class members in binding expressions.
+2. How do you add a query option to a REST web service call in Retrofit?
+  - Add a parameter for the query to the function that makes the request, and annotate that parameter with @Query

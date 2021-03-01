@@ -1,0 +1,17 @@
+1. Which of the following is true about the floating action button (FAB)?
+  -The FAB uses a special click handler so that you don't have to write your own view model code.
+  -The FAB is a mandatory element for apps that implement Material Design principles.
+  -The FAB is usually associated with a primary action the user can take on the screen.
+2. Which ViewGroup allows you to stack views on top of each other?
+  -CoordinatorLayout
+3. Which of the following are reasons for using Material Design components? Select all that apply.
+  -They help you create an app that uses consistent styling.
+  -They are designed to be beautiful, functional, and work together.
+4. What is a theme overlay for? Select all that are true.
+  -With a theme overlay, all the styles of that theme are applied automatically.
+  -You create a theme overlay by defining styles in XML.
+5. Which of the following are reasons for defining and using dimensions? Select all that apply.
+   -Makes it easier to change measurements across your app.
+   -Makes it easier to apply the same measurements across the app.
+   -Allows you to give meaningful semantic names to measurements.
+

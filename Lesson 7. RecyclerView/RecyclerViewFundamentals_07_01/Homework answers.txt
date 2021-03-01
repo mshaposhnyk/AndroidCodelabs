@@ -1,0 +1,14 @@
+1. How does RecyclerView display items? Select all that apply.
+  -Displays items in a list or a grid.
+  -Scrolls vertically or horizontally.
+2. What are the benefits of using RecyclerView? Select all that apply.
+  -Efficiently displays large lists.
+  -Reuses view that scrolls off screen to display the next item that scrolls on screen.
+3. What are some of the reasons for using adapters? Select all that apply.
+  -Data processing layers do not have to concern themselves with how data will be displayed.
+  -RecyclerView is agnostic to the data that is being displayed.
+4.Which of the following are true of ViewHolder? Select all that apply.
+  -The ViewHolder layout is defined in XML layout files.
+  -The Adapter binds data to the ViewHolder.
+  -There is one ViewHolder for each unit of data in the dataset.
+  -You can have more than one ViewHolder in a RecyclerView.

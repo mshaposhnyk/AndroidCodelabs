@@ -1,0 +1,13 @@
+1. Your app contains a physics simulation that requires heavy computation to display. Then the user gets a phone call. Which of the following is true?
+  -During the phone call, you should continue computing the positions of objects in the physics simulation.
+
+2. Which lifecycle method should you override to pause the simulation when the app is not on the screen?
+  -onStop()
+
+3. To make a class lifecycle-aware through the Android lifecycle library, which interface should the class implement?
+   -LifecycleObserver
+
+4. Under which circumstances does the onCreate() method in your activity receive a Bundle with data in it (that is, the Bundle is not null)?
+   -The activity is restarted after the device is rotated.
+   -The activity is resumed after returning from the background.
+   -The device is rebooted.
